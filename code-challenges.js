@@ -28,7 +28,7 @@ const padres1984WorldSeriesRuns = [2, 5, 2, 2, 4]
 const padres1998WorldSeriesRuns = [6, 3, 5, 3]
 // Expected output: 9
 
-// Pseudo code:
+// Pseudo code: 
 
 // --------------------2) Create the code that will reverse the letters of a string using the test variable provided below.
 
