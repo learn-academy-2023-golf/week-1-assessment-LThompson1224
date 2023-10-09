@@ -26,20 +26,23 @@ const fruit2 = "banana"
 
 const padres1984WorldSeriesRuns = [2, 5, 2, 2, 4]
 const padres1998WorldSeriesRuns = [6, 3, 5, 3]
-// Expected output: 9
+// Expected output: 
 
-// Pseudo code: 
+// Pseudo code: i think the code to execute this would be concat along but i dont know how to write it out 
 
 // --------------------2) Create the code that will reverse the letters of a string using the test variable provided below.
 
 const currentCohort = "LEARN 2023"
 // Expected output: "3202 NRAEL"
 
-// Pseudo code:
+// Pseudo code: i think the code you will have to do to execute this action will be 
+console.log(currentCohort.reverse)
+//when i put the code in the terminal i got undefined but i dont understand how or why i got that response
 
 // --------------------3) Create the code that will log only the odd numbers from the array using the test variable provided below.
 
 const stockExchange = [13, 34, -4, 42, 5, -5, 10, 27, 42, 10]
 // Expected output: 13 5 -5 27
 
-// Pseudo code:
+// Pseudo code: i think the code should be 
+console.log (stockExchange.oddIndexes)
