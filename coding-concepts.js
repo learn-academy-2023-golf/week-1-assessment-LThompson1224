@@ -40,7 +40,7 @@
 // --------------------4) What will this log?
 
 //const weekendDays = ["saturday", "sunday"]
- //console.log(weekendDays.toUpperCase())
+//console.log(weekendDays.toUpperCase())
 
 // a) Your answer: "SATURDAY", "SUNDAY"
 // b) Verify and explain: from my understanding in class if the code is typed correctly this should be the outcome . but when i input this outcome into the terminal it says that its not a function, however i may be doing something wrong and im not sure.
